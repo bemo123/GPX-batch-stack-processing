@@ -9,6 +9,7 @@
 
 # Usage
 I recommend using Anaconda Python IDE to execute the scripts. Create a new environment in Anaconda.Navigator and install the required libraries 
+- numpy
 - scipy
 - pandas
 - pyproj
