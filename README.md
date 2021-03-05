@@ -11,6 +11,6 @@ Then, install Spyder to your new environment using Anaconda.Navigator again. Lau
 
 Run the desired .py script by typing 
 
-'''python
+```python
 run xyz.py
-'''
+```
