@@ -1,7 +1,7 @@
 # GPX-batch-stack-processing
  Several python scripts for batch processing of GPX files.
 
-#Usage
+# Usage
 I recommend using Anaconda Python IDE to execute the scripts. Create a new environment in Anaconda.Navigator and install the required libraries 
 - scipy
 - pandas
